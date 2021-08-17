@@ -3,7 +3,7 @@
 https://blog.naver.com/wjoh0315/222472306403
 
 ## preview
-
+https://www.youtube.com/watch?v=ta7CeyCV37w
 
 ## note
 Frame Skip Lerp (Maybe...)
